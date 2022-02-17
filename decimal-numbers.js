@@ -1,0 +1,1 @@
+const myDecimal = 12.2;
